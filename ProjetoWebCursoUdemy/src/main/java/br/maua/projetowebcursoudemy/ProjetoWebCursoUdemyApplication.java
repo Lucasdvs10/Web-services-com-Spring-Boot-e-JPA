@@ -7,7 +7,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ProjetoWebCursoUdemyApplication{
 
     public static void main(String[] args){
+
         SpringApplication.run(ProjetoWebCursoUdemyApplication.class, args);
+
+
+
     }
 
 }
